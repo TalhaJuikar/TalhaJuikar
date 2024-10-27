@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Talha Juikar 👋
 
-<!--
-**TalhaJuikar/TalhaJuikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a DevOps Engineer with a passion for learning and exploring new technologies. I love experimenting with my homelab and trying out different setups and tools.
 
-Here are some ideas to get you started:
+## 🌐 [Website](https://www.talhajuikar.cloud/)
+## 🏆 GitHub Trophies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
+
+## 📫 Contact Me
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talhajuikar5@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-juikar-9b8265234/)
+
+
+---
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
